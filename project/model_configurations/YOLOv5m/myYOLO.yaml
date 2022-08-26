@@ -1,0 +1,14 @@
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train: semiAutoDataset/images/train
+val: semiAutoDataset/images/test
+
+# number of classes
+nc: 49
+
+# class names
+names: ['egg', 'rice', 'pasta', 'raw beef', 'raw chicken', 'raw lamb', 'raw pork', 'apple',
+        'banana', 'bell pepper', 'cabbage', 'carrot', 'cauliflower', 'chilli', 'corn', 'cucumber',
+        'eggplant', 'garlic', 'ginger', 'grapes', 'jalepeno', 'kiwi', 'lemon', 'lettuce', 'mango',
+        'onion', 'orange', 'garlic', 'ginger', 'grapes', 'jalepeno', 'kiwi', 'lemon', 'lettuce',
+        'mango', 'onion', 'orange', 'pear', 'peas', 'pineapple', 'pomegranate', 'potato', 'raddish',
+        'spinach', 'sweet potato', 'tomato', 'watermelon', 'white mushroom','coin']

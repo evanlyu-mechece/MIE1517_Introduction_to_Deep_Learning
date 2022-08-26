@@ -1,0 +1,49 @@
+egg
+rice
+pasta
+raw beef
+raw chicken
+raw lamb
+raw pork
+apple
+banana
+bell pepper
+cabbage
+carrot
+cauliflower
+chilli
+corn
+cucumber
+eggplant
+garlic
+ginger
+grapes
+jalepeno
+kiwi
+lemon
+lettuce
+mango
+onion
+orange
+garlic
+ginger
+grapes
+jalepeno
+kiwi
+lemon
+lettuce
+mango
+onion
+orange
+pear
+peas
+pineapple
+pomegranate
+potato
+raddish
+spinach
+sweet potato
+tomato
+watermelon
+white mushroom
+toonie
